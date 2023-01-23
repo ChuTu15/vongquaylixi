@@ -2,7 +2,7 @@
 Tết thấy vui vui nên ngẫu hứng viết một con web tặng mọi người.
 Mình dùng `Winwheel.js` để làm vòng quay và `sweetalert.js` để làm popup 
 
-Lưu ý pass mở khoá vòng quay là "mgiapthin2024"
+Lưu ý pass mở khoá vòng quay là "giapthin2024"
 ## Ý tưởng và chức năng
 Ý tưởng thực ra là dành cho điện thoại. Sau khi truy cập vào web, nhập pass rồi mình sẽ đưa cho mấy đứa con nít quay, mỗi đứa sẽ được quay một số lần nhất định mình đã setup trước, sau khi quay hết sẽ yêu cầu nhập pass(thực ra view source là thấy cmn pass luôn, có thể obfuscated tí cho vui). Phần cài đặt bên dưới có lịch sử lì xì và tổng số tiền đã mất...
 
